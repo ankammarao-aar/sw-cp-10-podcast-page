@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.home-page-bg-container {
+    height: 100vh;
+    background-size: cover;
+}
+
+.top-card {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    height: 36%;
+    background-size: cover;
+    padding: 22px;
+}
+
+.home-page-heading {
+    font-family: "Roboto";
+    color: #ffffff;
+}
+
+.bottom-card {
+    font-family: "Roboto";
+    margin: 14px;
+}
+
+.person-card {
+    text-align: center;
+    margin: 10px;
+}
+
+.person-img {
+    width: 150px;
+    height: 115px;
+}
+
+.person-heading {
+    font-size: 18px;
+    font-weight: bold;
+    color: #151765;
+    padding: 10px;
+}
+
+.person-text {
+    font-size: 18px;
+    color: #5a7184;
+}
