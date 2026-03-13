@@ -43,3 +43,53 @@
     font-size: 18px;
     color: #5a7184;
 }
+
+.puri-jagannadh-bg-container {
+    font-family: "Roboto";
+}
+
+.puri-podcast-cad {
+    background-color: #151765;
+    padding: 26px;
+}
+
+.puri-img {
+    height: 132px;
+}
+
+.podcast-title {
+    font-size: 14px;
+    color: #ffffff;
+    padding-left: 14px;
+}
+
+.puri-heading {
+    font-size: 26px;
+    font-weight: bold;
+    color: #ffffff;
+    padding-left: 14px;
+}
+
+.puri-small-cad {
+    padding: 26px;
+}
+
+.podcast-head {
+    color: #151765;
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 14px;
+}
+
+.puri-description {
+    font-size: 16px;
+    color: #5a7184;
+    padding-left: 14px;
+}
+
+.podcast-duration {
+    font-size: 12px;
+    font-weight: bold;
+    color: #5a7184;
+    padding-left: 14px;
+}
