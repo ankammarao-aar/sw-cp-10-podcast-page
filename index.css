@@ -93,3 +93,12 @@
     color: #5a7184;
     padding-left: 14px;
 }
+
+.back-button {
+    background-color: #151765;
+    color: #ffffff;
+    border-radius: 10px;
+    border: 0px;
+    width: 95px;
+    padding: 6px;
+}
